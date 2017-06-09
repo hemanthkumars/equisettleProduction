@@ -12,12 +12,18 @@ font-size:22px!important;
 	padding: 10px 15px 350px 15px;
 }
 
-
+.addcase2 .portlet.box>.portlet-body {
+	padding: 10px 15px 250px 15px;
+}
 
 .addcase .portlet.box>.portlet-body {
 	padding: 10px 15px 500px 15px;
 }
 @media only screen and (max-width: 62.063em) { 
+
+.addcase2 .portlet.box>.portlet-body {
+	padding: 10px 15px 400px 15px;
+}
 	
 .addcase .portlet.box>.portlet-body {
 	padding: 10px 15px 800px 15px;
@@ -29,6 +35,18 @@ font-size:22px!important;
 
 
 } /* min-width 641px, medium screens */
+
+.myvideo {
+	text-align : center;
+	margin-bottom:15px;
+}
+
+.mywelcome .dashboard-stat .details {
+	left:0;
+	padding-right:0px;
+	right:0;
+	
+}
 
 
 .myspacer {
@@ -239,6 +257,7 @@ margin-right:20px!important;
 }
 a .myhead h3 {
 	color: #FFFFFF;
+	text-align:center;
 }
 
 
